@@ -31,7 +31,7 @@ Input data yang tersedia:
 - [ ] `upgrade_plan(username, current_plan, new_plan)` --> harga final, if langganan > 12 bulan akan dapet diskon 5% 
 - [ ] `pick_plan(new_plan, code_referral)` --> untuk new user, harga final kalo pake kode referral dapet diskon 4%
 
-## Validasi Program (Tes Run Program)
+## Validasi Program
 - user1 = User(username "Bagus")
 - Check_plan()
 - Check_benefit()
